@@ -7,4 +7,4 @@ Fluent in English and Polish. Advanced in Japanese (N2 level).
 Open to learn and use new technologies and frameworks.
 
 ### Technologies I use
-[![My skills](https://skillicons.dev/icons?i=js,ts,react,redux,figma,html,css,scss,mongo,kotlin,java,docker,k8s)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=js,ts,react,redux,figma,html,css,scss,nodejs,mongo,kotlin,java,docker,k8s)](https://skillicons.dev)
