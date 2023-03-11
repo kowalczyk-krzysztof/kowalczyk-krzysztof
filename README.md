@@ -5,7 +5,3 @@ My name is Krzysztof and I'm a software engineer. When I work, my goal is to cre
 **Give me a problem and I will find a solution.**
 
 Fluent in English and Polish. Advanced in Japanese (N2 level).
-
-**My skills:**
-
-[![My skills](https://skillicons.dev/icons?i=js,ts,react,redux,figma,html,css,scss,nodejs,mongo,kotlin,java,docker,k8s)](https://skillicons.dev)
