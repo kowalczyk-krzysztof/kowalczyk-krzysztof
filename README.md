@@ -1,6 +1,6 @@
 Hi there :wave:
 
-My name is Krzysztof and I'm a software engineer. When I work, my goal is to create useful and high quality products people can enjoy. Finding the right balance between user experience and efficiency is a challenge, but I believe I have what it takes to achieve it.
+My name is Krzysztof and I'm a software engineer. My focus is on crafting high-quality, user-friendly products. Balancing user experience with efficiency is a challenge I embrace, confident in my ability to find effective solutions. 
 
 **Give me a problem and I will find a solution.**
 
